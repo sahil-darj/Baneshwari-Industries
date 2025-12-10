@@ -1,87 +1,83 @@
+# **Baneshwari Industries – Hydraulic & Fabrication Machinery Website**
 
-Baneshwari Industries – Hydraulic & Fabrication Machinery Website
+A modern and fully responsive website built for **Baneshwari Industries**, a leading manufacturer of hydraulic and fabrication machinery. The website showcases the company’s profile, product portfolio, services, and global reach with a clean, industry-focused design.
 
-A modern and fully responsive website built for Baneshwari Industries, a leading manufacturer of hydraulic and fabrication machinery. The website showcases the company’s profile, product portfolio, services, and global reach with a clean, industry-focused design.
+---
 
-🚀 About the Project
+🌐 Live Demo
 
-This project is a complete business website designed for Baneshwari Industries, highlighting:
+👉 Add your live website link here once deployed
+Example: https://machinerywebsite.vercel.app/
 
-10+ years of industrial experience
+## 🚀 **About the Project**
 
-Engineering excellence in hydraulic machinery
+This project is a complete business website designed for **Baneshwari Industries**, highlighting:
 
-Precision manufacturing and custom machine solutions
-
-Global supply capabilities across 20+ countries
+- **10+ years** of industrial experience  
+- **Engineering excellence** in hydraulic machinery  
+- **Precision manufacturing** and custom machine solutions  
+- **Global supply** capabilities across **20+ countries**
 
 The site is optimized for performance, mobile responsiveness, and professional presentation.
 
-🏭 Company Overview
+---
+
+## 🏭 **Company Overview**
 
 Baneshwari Industries specializes in manufacturing and supplying:
 
-Hydraulic Machines
-
-Fabrication Machinery
-
-Custom Industrial Equipment
+- Hydraulic Machines  
+- Fabrication Machinery  
+- Custom Industrial Equipment  
 
 The website includes detailed sections about the company, achievements, core capabilities, and customer benefits.
 
-⚙️ Key Website Features
+---
 
-✔️ Responsive & modern UI
+## ⚙️ **Key Website Features**
 
-✔️ Product showcase with specifications
+- ✔️ Responsive & modern UI  
+- ✔️ Product showcase with specifications  
+- ✔️ About & Services sections  
+- ✔️ Client testimonials section (placeholder)  
+- ✔️ Contact information with map/location  
+- ✔️ Clean industrial layout  
 
-✔️ About & Services sections
+---
 
-✔️ Client testimonials section (placeholder)
+## 🛠️ **Core Machinery Displayed**
 
-✔️ Contact information with map/location
+### **Hydraulic Barrel Drum Cutting Machine**
+- 2 HP (1.5 kW)  
+- Supports 200L standard drum  
+- Approx weight: 350 Kg  
 
-✔️ Clean industrial layout
+### **Hydraulic Bottle Cap Threading Machine**
+- 1.5 HP  
+- Thread size: 30mm–110mm  
+- Manual lock system  
 
-🛠️ Core Machinery Displayed
-Hydraulic Barrel Drum Cutting Machine
+### **Hydraulic Semi-Auto Edge Cutting Machine**
+- 3 HP  
+- Max diameter: 500 mm  
+- Precision: ±0.05 mm  
 
-2 HP (1.5 kW)
+---
 
-Supports 200L standard drum
+## 📂 **Tech Stack Used**
 
-Approx weight: 350 Kg
+- **HTML5 / CSS3**  
+- **JavaScript**  
+- **Bootstrap / Tailwind** (if used)  
+- **Responsive Design Principles**
 
-Hydraulic Bottle Cap Threading Machine
+---
 
-1.5 HP
-
-Thread size: 30mm–110mm
-
-Manual lock system
-
-Hydraulic Semi-Auto Edge Cutting Machine
-
-3 HP
-
-Max diameter: 500 mm
-
-Precision: ±0.05 mm
-
-📂 Tech Stack Used
-
-HTML5 / CSS3
-
-JavaScript
-
-Bootstrap / Tailwind (if used)
-
-Responsive Design Principles
-
-💻 Installation & Setup
+## 💻 **Installation & Setup**
 
 Follow these steps to run the project locally:
 
+```bash
 # Clone this repository
 git clone https://github.com/your-username/your-repo-name.git
 
@@ -90,44 +86,3 @@ cd your-repo-name
 
 # Open the project in your browser
 Open index.html
-
-
-No additional setup required — this is a static website.
-
-🌐 Live Demo
-
-👉 Add your live website link here once deployed
-Example:
-
-https://your-domain.com
-
-
-If you want, I can help you deploy it on GitHub Pages, Netlify, or Vercel.
-
-🖼️ Screenshots
-
-(Add images in your /assets or /images folder, then update the links)
-
-🏠 Home Page
-![Home Page](images/homepage.png)
-
-🏭 Products Section
-![Products](images/products.png)
-
-📞 Contact Page
-![Contact Page](images/contact.png)
-
-
-If you send me screenshots, I’ll format and embed them perfectly.
-
-📞 Contact Information
-
-Baneshwari Industries
-Ahmedabad, Gujarat, India
-📞 +91 70144 05301
-📧 industriesbaneshwari@gmail.com
-
-📜 License
-
-This project is intended for business use by Baneshwari Industries.
-All content and visuals belong to the company.
